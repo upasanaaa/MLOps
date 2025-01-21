@@ -1,0 +1,5 @@
+[default]
+entity = upasanapaul2030-technical-university-of-denmark
+project = corrupt_mnist
+base_url = https://api.wandb.ai
+

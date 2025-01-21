@@ -1,0 +1,6 @@
+outs:
+- md5: 07726679fc7b3076bfb56a18b801f849.dir
+  size: 64646144
+  nfiles: 8
+  hash: md5
+  path: corruptmnist_v2

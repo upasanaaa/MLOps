@@ -1,0 +1,8 @@
+artifacts/*
+__pycache__/
+*.log
+google-cloud-sdk-506.0.0-linux-x86_64.tar.gz
+google-cloud-sdk-506.0.0-linux-x86_64.tar.gz
+google-cloud-sdk-506.0.0-linux-x86_64.tar.gz
+*.tar.gz
+API/

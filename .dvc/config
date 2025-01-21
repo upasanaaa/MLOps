@@ -1,0 +1,11 @@
+[core]
+    remote = gcp_storage
+['remote "storage"']
+    url = gdrive://1p923GtPaw8DnPcmSXTA5inEpFeGBi3FS
+['remote "myremote"']
+    url = gdrive://1p923GtPaw8DnPcmSXTA5inEpFeGBi3FS
+['remote "remote_storage"']
+    url = ../my-mlops-bucket
+['remote "gcp_storage"']
+    url = gs://my-mlops-bucket
+    credentialpath = ../client_secrets.json
